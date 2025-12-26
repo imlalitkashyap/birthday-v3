@@ -27,14 +27,14 @@ export default function MessageScreen({ onNext }) {
                     className=" h-auto max-w-xl bg-gradient-to-br from-pink-200 via-pink-100 to-pink-50 rounded-2xl shadow-lg p-4 md:p-6 text-center"
                 >
                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
-                        Happy Birthday, Cutiepie! You deserve all the happiness, love, and smiles in the world today and always.
-                        You have this special way of making everything around you brighter, your smile, your kindness, and the way
-                        you make people feel truly cared for. I hope your day is filled with laughter, surprises, and moments that
-                        make your heart happy. You’re truly one of a kind, and I just want you to know how special you are.
-                        Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness,
-                        success, and all the sweet things life has to offer. 💗
-                        Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness,
-                    </p>
+                        🎉✨ 𝑯𝒂𝒑𝒑𝒚 𝑩𝒊𝒓𝒕𝒉𝒅𝒂𝒚 𝑫𝒆𝒂𝒓 𝑭𝒓𝒊𝒆𝒏𝒅! ✨🎉
+🌸 𝑾𝒊𝒔𝒉𝒊𝒏𝒈 𝒚𝒐𝒖 𝒂 𝒅𝒂𝒚 𝒇𝒊𝒍𝒍𝒆𝒅 𝒘𝒊𝒕𝒉 𝒔𝒎𝒊𝒍𝒆𝒔, 𝒑𝒆𝒂𝒄𝒆 𝒂𝒏𝒅 𝒍𝒐𝒗𝒆.
+🌷 𝒀𝒐𝒖 𝒂𝒓𝒆 𝒂𝒏 𝒂𝒎𝒂𝒛𝒊𝒏𝒈 𝒑𝒆𝒓𝒔𝒐𝒏 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒖𝒓𝒆 𝒉𝒆𝒂𝒓𝒕, 𝒂𝒏𝒅 𝒚𝒐𝒖 𝒅𝒆𝒔𝒆𝒓𝒗𝒆 𝒂𝒍𝒍 𝒕𝒉𝒆 𝒃𝒆𝒔𝒕.
+💫 𝑴𝒂𝒚 𝒚𝒐𝒖𝒓 𝒚𝒆𝒂𝒓 𝒃𝒆 𝒇𝒖𝒍𝒍 𝒐𝒇 𝒏𝒆𝒘 𝒉𝒐𝒑𝒆𝒔, 𝒃𝒆𝒂𝒖𝒕𝒊𝒇𝒖𝒍 𝒎𝒐𝒎𝒆𝒏𝒕𝒔 𝒂𝒏𝒅 𝒔𝒖𝒄𝒄𝒆𝒔𝒔.
+✨ 𝑲𝒆𝒆𝒑 𝒔𝒉𝒊𝒏𝒊𝒏𝒈
+✨ 𝑲𝒆𝒆𝒑 𝒈𝒓𝒐𝒘𝒊𝒏𝒈
+✨ 𝑲𝒆𝒆𝒑 𝒃𝒆𝒊𝒏𝒈 𝒚𝒐𝒖
+🎂💖 𝑶𝒏𝒄𝒆 𝒂𝒈𝒂𝒊𝒏, 𝑯𝒂𝒑𝒑𝒚 𝑩𝒊𝒓𝒕𝒉𝒅𝒂𝒚! 💖🎂
                 </motion.div>
             </div>
         </div>
